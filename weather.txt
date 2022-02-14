@@ -1,0 +1,10 @@
+heavy
+cloudy
+heavy
+sunny
+cloudy
+cloudy
+sunny
+cloudy
+sunny
+cloudy
